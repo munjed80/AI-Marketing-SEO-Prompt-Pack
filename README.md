@@ -1,10 +1,14 @@
-# AI Marketing & SEO Prompt Pack
+# AI Marketing & SEO Prompt Master Pack
 
 **Premium AI Prompts for Marketing, SEO & Sales Professionals**
 
+*By AI Growth Studio · MHM IT*
+
 ## Overview
 
-The AI Marketing & SEO Prompt Pack is a comprehensive collection of expertly crafted prompts designed to supercharge your marketing workflows using AI tools like ChatGPT, Claude, and other language models. This pack contains battle-tested prompts that deliver professional-grade outputs for content creation, SEO optimization, sales copy, and strategic marketing planning.
+The AI Marketing & SEO Prompt Master Pack is a comprehensive collection of expertly crafted prompts designed to supercharge your marketing workflows using AI tools like ChatGPT, Claude, and other language models. This pack contains battle-tested prompts that deliver professional-grade outputs for content creation, SEO optimization, sales copy, conversion rate optimization, and strategic marketing planning.
+
+**Transform your marketing operations with AI-powered efficiency—all for just $29.**
 
 ## What's Included
 
@@ -34,6 +38,11 @@ The AI Marketing & SEO Prompt Pack is a comprehensive collection of expertly cra
 - **Market Research** - Conduct audience research and market analysis
 - **Performance Reporting** - Generate actionable insights from marketing data
 - **A/B Testing Ideas** - Develop hypotheses and testing frameworks
+- **CRO Audits** - Conversion rate optimization and funnel analysis
+
+### Brand Voice & Style
+- **Tone of Voice Presets** - Create consistent brand messaging across all channels
+- **Style Guide Development** - Define your unique communication style
 
 ## Who Is This For?
 
@@ -65,14 +74,34 @@ The AI Marketing & SEO Prompt Pack is a comprehensive collection of expertly cra
 
 ```
 ├── README.md                    # This file
+├── LICENSE                      # MIT License
 ├── content/
-│   └── english.md              # Complete prompt collection
+│   └── english.md              # Complete prompt collection (35+ pages)
 ├── docs/
 │   └── landing-page.md         # Product sales copy
 └── assets/
-    ├── cover-placeholder.txt   # Placeholder for product cover
-    └── mockup-placeholder.txt  # Placeholder for product mockup
+    ├── cover.png               # Product cover image
+    ├── mockup1.png             # Product mockup 1
+    └── mockup2.png             # Product mockup 2
 ```
+
+## Preview
+
+### Product Overview
+
+![Product Cover](assets/cover.png)
+
+The AI Marketing & SEO Prompt Master Pack includes professionally designed templates and frameworks ready to use immediately with your favorite AI tools.
+
+### What You'll Get
+
+![Mockup 1](assets/mockup1.png)
+
+*35+ pages of comprehensive prompts covering every aspect of digital marketing*
+
+![Mockup 2](assets/mockup2.png)
+
+*Organized by category for easy navigation and implementation*
 
 ## Best Practices
 
@@ -82,14 +111,35 @@ The AI Marketing & SEO Prompt Pack is a comprehensive collection of expertly cra
 - **Learn** - Study the prompt structures to improve your own AI interactions
 - **Test** - A/B test AI-generated content against your traditional approaches
 
+## Get Started Today
+
+**Ready to transform your marketing with AI?**
+
+🚀 [**Purchase on Gumroad - Only $29**](#) *(Link to be added after launch)*
+
+Get instant access to all prompts and start creating professional marketing content in minutes.
+
+## Remaining Tasks
+
+The following items are planned for future updates:
+
+- [ ] Replace placeholder images with branded mockups
+- [ ] Add Google Docs version for easy cloud access
+- [ ] Add Notion version for team collaboration
+- [ ] Upload final PDF version
+- [ ] Add active Gumroad purchase link
+
 ## Support & Updates
 
 This is a living product that evolves with AI capabilities and marketing best practices. Feedback and suggestions are welcome to make this resource even more valuable for the marketing community.
 
+**Contact us:** info@mhmit.nl
+
 ## License
 
-For personal and commercial use. Please do not redistribute or resell this prompt pack.
+This product is provided under the MIT License. For personal and commercial use. Please do not redistribute or resell this prompt pack.
 
 ---
 
-**Start creating exceptional marketing content with AI today!**
+**AI Growth Studio · MHM IT**  
+*Start creating exceptional marketing content with AI today!*
