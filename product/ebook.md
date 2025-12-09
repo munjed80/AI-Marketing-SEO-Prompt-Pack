@@ -1,3 +1,27 @@
+<div style="page-break-after: always; text-align: center; margin-top: 200px;">
+
+# AI Marketing & SEO Prompt Master Pack
+
+## High-Conversion AI Prompts for Marketers & Agencies
+
+### Your Complete Toolkit for AI-Powered Marketing Success
+
+---
+
+**Created by MHM IT**  
+info@mhmit.nl
+
+---
+
+**© 2025 AI Growth Studio – Published by MHM IT**  
+All Rights Reserved
+
+</div>
+
+<div style="page-break-after: always;"></div>
+
+---
+
 # AI Marketing & SEO Prompt Master Pack
 **Premium AI Prompt Frameworks for Digital Marketers & Agencies**
 
@@ -38,6 +62,8 @@ This comprehensive prompt library contains over 100 battle-tested AI prompts des
 8. [Bonus: Additional Resources](#bonus-additional-resources)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ## SEO Optimization Prompts
 
@@ -523,6 +549,8 @@ Include:
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## Landing Page & Sales Copy Prompts
 
 ### 1. High-Converting Landing Page Framework
@@ -903,6 +931,8 @@ Script structure:
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## Advertising Prompts
 
 ### Meta Ads (Facebook & Instagram)
@@ -1280,6 +1310,8 @@ Adapt for:
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## Email Marketing Prompts
 
 ### 1. Welcome Email Series
@@ -1585,6 +1617,8 @@ Include:
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## CRO & Conversion Improvement Prompts
 
 ### 1. Conversion Funnel Audit
@@ -1888,6 +1922,8 @@ Create:
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## Branded Tone-Style Prompt Presets
 
 ### 1. Professional & Authoritative
@@ -2030,29 +2066,32 @@ Example opening: "For the discerning marketer who refuses to compromise on quali
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## Bonus: Additional Resources
 
-### Best Practices
+### Getting Started: Quick Steps
 1. **Choose the appropriate prompt** for your specific marketing need
 2. **Fill in the bracketed placeholders** [LIKE THIS] with your specific information
 3. **Copy the complete prompt** into your AI assistant (ChatGPT, Claude, etc.)
 4. **Review and refine** the output to match your brand voice and specific requirements
 5. **Iterate** by asking follow-up questions or requesting variations
 
-### Best Practices
-- Be specific with your inputs for better results
+### Best Practices for Maximum Results
+- Be specific with your inputs for better, more targeted results
 - Combine multiple prompts for comprehensive campaigns
-- Use the tone-style presets consistently across your content
-- Save your best prompt variations for reuse
-- Test different versions and track performance
-- Adapt prompts based on your industry and audience
+- Use the tone-style presets consistently across your content for brand consistency
+- Save your best prompt variations for reuse in future campaigns
+- Test different versions and track performance to optimize over time
+- Adapt prompts based on your specific industry and target audience
 
 ### Customization Tips
-- Add your brand guidelines to any prompt
-- Include competitor examples for differentiation
-- Specify content length requirements
-- Request multiple variations for A/B testing
-- Ask for platform-specific optimizations
+- Add your brand guidelines to any prompt for consistent voice
+- Include competitor examples for differentiation and unique angles
+- Specify content length requirements for precise outputs
+- Request multiple variations for A/B testing opportunities
+- Ask for platform-specific optimizations (mobile, desktop, etc.)
+
 
 ---
 
@@ -2068,3 +2107,14 @@ For questions, support, or custom prompt requests, please reach out to our team.
 
 **© 2025 AI Growth Studio – Published by MHM IT**  
 **All Rights Reserved – Commercial Product License**
+
+---
+
+<div style="text-align: center; margin-top: 50px; font-size: 10pt; color: #666;">
+
+**Footer for PDF Pages:**  
+MHM IT · info@mhmit.nl
+
+*When exporting to PDF in Word/Google Docs, add this footer text to appear on every page*
+
+</div>
