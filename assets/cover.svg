@@ -1,0 +1,78 @@
+<svg width="800" height="1000" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dark gradient background -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e293b;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="1000" fill="url(#bgGradient)"/>
+  
+  <!-- Decorative elements - geometric shapes -->
+  <circle cx="100" cy="100" r="150" fill="#1e293b" opacity="0.3"/>
+  <circle cx="700" cy="900" r="200" fill="#1e293b" opacity="0.3"/>
+  
+  <!-- Accent line at top -->
+  <rect x="0" y="0" width="800" height="8" fill="url(#accentGradient)"/>
+  
+  <!-- Top section - "AI" badge -->
+  <rect x="300" y="120" width="200" height="60" rx="30" fill="url(#accentGradient)"/>
+  <text x="400" y="158" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle">AI POWERED</text>
+  
+  <!-- Main Title -->
+  <text x="400" y="300" font-family="Arial, sans-serif" font-size="52" font-weight="bold" fill="white" text-anchor="middle">AI MARKETING &amp;</text>
+  <text x="400" y="360" font-family="Arial, sans-serif" font-size="52" font-weight="bold" fill="white" text-anchor="middle">SEO PROMPT</text>
+  <text x="400" y="420" font-family="Arial, sans-serif" font-size="52" font-weight="bold" fill="white" text-anchor="middle">PACK</text>
+  
+  <!-- Accent line under title -->
+  <rect x="250" y="450" width="300" height="4" rx="2" fill="url(#accentGradient)"/>
+  
+  <!-- Subtitle -->
+  <text x="400" y="520" font-family="Arial, sans-serif" font-size="24" fill="#94a3b8" text-anchor="middle">High-Conversion AI Prompts</text>
+  <text x="400" y="555" font-family="Arial, sans-serif" font-size="24" fill="#94a3b8" text-anchor="middle">for Marketers &amp; Agencies</text>
+  
+  <!-- Feature highlights -->
+  <g transform="translate(150, 620)">
+    <!-- Feature 1 -->
+    <circle cx="15" cy="0" r="6" fill="#3b82f6"/>
+    <text x="35" y="6" font-family="Arial, sans-serif" font-size="18" fill="#cbd5e1">105+ Battle-Tested Prompts</text>
+    
+    <!-- Feature 2 -->
+    <circle cx="15" cy="40" r="6" fill="#8b5cf6"/>
+    <text x="35" y="46" font-family="Arial, sans-serif" font-size="18" fill="#cbd5e1">SEO, Ads, Email &amp; Landing Pages</text>
+    
+    <!-- Feature 3 -->
+    <circle cx="15" cy="80" r="6" fill="#3b82f6"/>
+    <text x="35" y="86" font-family="Arial, sans-serif" font-size="18" fill="#cbd5e1">Proven Marketing Frameworks</text>
+    
+    <!-- Feature 4 -->
+    <circle cx="15" cy="120" r="6" fill="#8b5cf6"/>
+    <text x="35" y="126" font-family="Arial, sans-serif" font-size="18" fill="#cbd5e1">Works with ChatGPT, Claude &amp; More</text>
+  </g>
+  
+  <!-- Decorative elements - dots pattern -->
+  <g opacity="0.15">
+    <circle cx="120" cy="780" r="4" fill="#3b82f6"/>
+    <circle cx="140" cy="780" r="4" fill="#3b82f6"/>
+    <circle cx="160" cy="780" r="4" fill="#8b5cf6"/>
+    <circle cx="180" cy="780" r="4" fill="#8b5cf6"/>
+    <circle cx="620" cy="780" r="4" fill="#8b5cf6"/>
+    <circle cx="640" cy="780" r="4" fill="#8b5cf6"/>
+    <circle cx="660" cy="780" r="4" fill="#3b82f6"/>
+    <circle cx="680" cy="780" r="4" fill="#3b82f6"/>
+  </g>
+  
+  <!-- Bottom section - branding -->
+  <rect x="0" y="850" width="800" height="150" fill="#0f172a" opacity="0.5"/>
+  
+  <text x="400" y="900" font-family="Arial, sans-serif" font-size="20" fill="#94a3b8" text-anchor="middle">CREATED BY</text>
+  <text x="400" y="935" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white" text-anchor="middle">MHM IT</text>
+  <text x="400" y="965" font-family="Arial, sans-serif" font-size="16" fill="#64748b" text-anchor="middle">Professional Marketing Solutions</text>
+</svg>
