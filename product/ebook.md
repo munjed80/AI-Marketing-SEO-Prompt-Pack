@@ -1,3 +1,27 @@
+<div style="page-break-after: always; text-align: center; margin-top: 200px;">
+
+# AI Marketing & SEO Prompt Master Pack
+
+## High-Conversion AI Prompts for Marketers & Agencies
+
+### Your Complete Toolkit for AI-Powered Marketing Success
+
+---
+
+**Created by MHM IT**  
+info@mhmit.nl
+
+---
+
+**© 2025 AI Growth Studio – Published by MHM IT**  
+All Rights Reserved
+
+</div>
+
+<div style="page-break-after: always;"></div>
+
+---
+
 # AI Marketing & SEO Prompt Master Pack
 **Premium AI Prompt Frameworks for Digital Marketers & Agencies**
 
@@ -38,6 +62,8 @@ This comprehensive prompt library contains over 100 battle-tested AI prompts des
 8. [Bonus: Additional Resources](#bonus-additional-resources)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ## SEO Optimization Prompts
 
@@ -523,6 +549,8 @@ Include:
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## Landing Page & Sales Copy Prompts
 
 ### 1. High-Converting Landing Page Framework
@@ -903,6 +931,8 @@ Script structure:
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## Advertising Prompts
 
 ### Meta Ads (Facebook & Instagram)
@@ -1280,6 +1310,8 @@ Adapt for:
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## Email Marketing Prompts
 
 ### 1. Welcome Email Series
@@ -1585,6 +1617,8 @@ Include:
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## CRO & Conversion Improvement Prompts
 
 ### 1. Conversion Funnel Audit
@@ -1888,6 +1922,8 @@ Create:
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## Branded Tone-Style Prompt Presets
 
 ### 1. Professional & Authoritative
@@ -2030,6 +2066,8 @@ Example opening: "For the discerning marketer who refuses to compromise on quali
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## Bonus: Additional Resources
 
 ### Best Practices
@@ -2068,3 +2106,14 @@ For questions, support, or custom prompt requests, please reach out to our team.
 
 **© 2025 AI Growth Studio – Published by MHM IT**  
 **All Rights Reserved – Commercial Product License**
+
+---
+
+<div style="text-align: center; margin-top: 50px; font-size: 10pt; color: #666;">
+
+**Footer for PDF Pages:**  
+MHM IT · info@mhmit.nl
+
+*When exporting to PDF in Word/Google Docs, add this footer text to appear on every page*
+
+</div>
