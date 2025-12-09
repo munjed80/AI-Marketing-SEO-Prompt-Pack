@@ -1,0 +1,35 @@
+AI Marketing & SEO Prompt Master Pack - Notion Template
+========================================================
+
+This file contains the link to the Notion template version of the product.
+
+📋 Notion Template Link:
+[PLACEHOLDER - Replace with actual Notion template sharing link after creation]
+
+Instructions for setup:
+1. Create a new Notion page or database
+2. Import or structure the content with proper organization:
+   - Use toggle lists for prompt categories
+   - Add database properties for filtering (Category, Type, Difficulty)
+   - Include tags for easy searching
+3. Create a template from the page
+4. Set sharing to "Allow duplicate as template"
+5. Copy the template link and replace the placeholder above
+
+Benefits of Notion version:
+- Interactive and searchable database
+- Custom properties and filters
+- Tag and organize by campaign type
+- Duplicate and customize infinitely
+- Perfect for team collaboration
+- Mobile app access
+- Integration with other tools
+
+Recommended Notion Structure:
+- Database view with filters by prompt type
+- Gallery view for quick browsing
+- Table view for detailed information
+- Linked databases for campaign tracking
+
+---
+AI Growth Studio · MHM IT · info@mhmit.nl
